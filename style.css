@@ -1,0 +1,24 @@
+img{
+	background-color: #c9f7ff;
+	padding: 20px;
+}
+h1{
+	text-align: center;
+	padding: 25px;
+	padding-bottom: 25px;
+
+}
+
+.row{
+     padding: 50px;
+     padding-left: 150px;
+}
+h3{
+	padding: 20px;
+	padding-left: 25px;
+}
+
+img:hover {
+  box-shadow: 0 0 4px 2px rgba(0, 140, 186, 0.5);
+  zoom: 20px;
+}
